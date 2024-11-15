@@ -35,7 +35,7 @@ Visualizations
 
 3. Budget versus Revenue
 
-![Budget_Profit](D:\MORINGA\PHASE2_PROJECT-inferential-statistics-\images\Budget vs Profit.png)
+images/Budget vs Profit.png
 
 4. Audience Impact( Impact of popularity and Rating on overall performance)
 
