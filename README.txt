@@ -27,7 +27,7 @@ Visualizations
 
 1. Top Performing Genres
 
-![Top genres_Profit](D:\MORINGA\PHASE2_PROJECT-inferential-statistics-\images\Top genres_Profit.png)
+![Top genres_Profit](images\Top genres_Profit.png)
 
 2. Leading Film Studios
 
