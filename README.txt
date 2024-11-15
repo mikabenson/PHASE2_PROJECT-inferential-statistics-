@@ -27,19 +27,19 @@ Visualizations
 
 1. Top Performing Genres
 
-![Top genres_Profit](images\Top genres_Profit.png)
+![Top genres_Profit](https://github.com/mikabenson/PHASE2_PROJECT-inferential-statistics-/blob/dde0b3a3b13ea920d3ea22b246c697f0674a8afe/images/Top%20genres_Profit.png)
 
 2. Leading Film Studios
 
-![Top_Studios](D:\MORINGA\PHASE2_PROJECT-inferential-statistics-\images\studios.png)
+![Top_Studios](https://github.com/mikabenson/PHASE2_PROJECT-inferential-statistics-/blob/dde0b3a3b13ea920d3ea22b246c697f0674a8afe/images/studios.png)
 
 3. Budget versus Revenue
 
-/images/Budget vs Profit.png
+![Budget_Profit](https://github.com/mikabenson/PHASE2_PROJECT-inferential-statistics-/blob/dde0b3a3b13ea920d3ea22b246c697f0674a8afe/images/Budget%20vs%20Profit.png)
 
 4. Audience Impact( Impact of popularity and Rating on overall performance)
 
-![Popularity_Profit](D:\MORINGA\PHASE2_PROJECT-inferential-statistics-\images\pop vs gross profit.png)
+![Popularity_Profit](https://github.com/mikabenson/PHASE2_PROJECT-inferential-statistics-/blob/dde0b3a3b13ea920d3ea22b246c697f0674a8afe/images/pop%20vs%20gross%20profit.png)
 
 Conclusions
 
