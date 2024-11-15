@@ -23,3 +23,40 @@ Datasets used were obtained from:
 * [Rotten Tomatoes](https://www.rottentomatoes.com/)
 * [TheMovieDB](https://www.themoviedb.org/)
 * [The Numbers](https://www.the-numbers.com/)
+
+Visualizations
+
+1. Top Performing Genres
+
+2. Leading Film Studios
+
+3. Budget versus Revenue
+
+4. Film Production Trends
+
+5. Audience Impact( Impact of popularity and Rating on overall performance)
+
+
+Conclusions
+
+1. Significant Impact of Genre on Revenue:
+
+The analysis reveals that genre plays a significant role in determining both domestic and worldwide revenue. The test confirm that the performance of films varies significantly across different genres.
+
+2. Studio Performance:
+
+The differences in revenue performance between studios are highly significant, with some studios consistently outpacing others in both domestic and international markets.
+
+
+3. Production Budget’s Positive Impact on Revenue:
+
+There is a moderate to strong positive correlation between production budgets and both domestic and worldwide revenue, with the correlation being slightly stronger for worldwide revenue (0.724) compared to domestic revenue (0.643)
+
+Recommendations
+
+1. Focus on Classics and Comedy: Given strong performance domestically, prioritize producing action and family films. These genres' universal appeal supports consistent box office success.
+2. Partner with successful Studios: Collaborating with established studios can leverage their expertise. Such partnerships enhance our knowledge and capabilities in film production.
+3. Optimize Budget Allocation: Incorporate a balanced approach to budget investment. Ensure funds are allocated thoughtfully across pre-production, production, and marketing.
+
+
+
