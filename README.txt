@@ -35,7 +35,7 @@ Visualizations
 
 3. Budget versus Revenue
 
-images/Budget vs Profit.png
+/images/Budget vs Profit.png
 
 4. Audience Impact( Impact of popularity and Rating on overall performance)
 
