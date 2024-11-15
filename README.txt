@@ -12,8 +12,7 @@ Objectives
 1. Evaluate the performance of various film genres in both domestic and international markets.
 2. Identify the movie studios that consistently produce high-performing films.
 3. Investigate the correlation between production budgets and both domestic and international revenues.
-4. Examine trends in film production over time.
-5. Assess the impact of a film's popularity score and average rating on its overall performance.
+4. Assess the impact of a film's popularity score and average rating on its overall performance.
 
 Data
 
@@ -28,14 +27,19 @@ Visualizations
 
 1. Top Performing Genres
 
+![Top genres_Profit](D:\MORINGA\PHASE2_PROJECT-inferential-statistics-\images\Top genres_Profit.png)
+
 2. Leading Film Studios
+
+![Top_Studios](D:\MORINGA\PHASE2_PROJECT-inferential-statistics-\images\studios.png)
 
 3. Budget versus Revenue
 
-4. Film Production Trends
+![Budget_Profit](D:\MORINGA\PHASE2_PROJECT-inferential-statistics-\images\Budget vs Profit.png)
 
-5. Audience Impact( Impact of popularity and Rating on overall performance)
+4. Audience Impact( Impact of popularity and Rating on overall performance)
 
+![Popularity_Profit](D:\MORINGA\PHASE2_PROJECT-inferential-statistics-\images\pop vs gross profit.png)
 
 Conclusions
 
